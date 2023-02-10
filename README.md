@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MartinAskestad
 - 👀 I’m interested in game development with #Godot and changing my vim-configuration.
 - 🌱 I’m currently learning Godot game development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Sokoban level genration.
 - 📫 How to reach me @Smetad_Anarkist on Twitter and mastodon.se
 
 <!---
