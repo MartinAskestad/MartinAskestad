@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development with #Godot and changing my vim-configuration.
 - 🌱 I’m currently learning Godot game development
 - 💞️ I’m looking to collaborate on Sokoban level genration.
-- 📫 How to reach me @Smetad_Anarkist on Twitter.
+- 📫 How to reach me [smetadanarkist](https://bsky.app/profile/smetadanarkist.bsky.social) on Bluesky.
 
 ![Project euler progress](https://projecteuler.net/profile/Smetad_Anarkist.png)
 
